@@ -1,0 +1,35 @@
+.footer {
+  height: 50vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer h1 {
+  text-align: center;
+  color: white;
+}
+
+.footer input {
+  width: 50%;
+  height: 15%;
+  margin: 10px;
+  font-size: 36px;
+}
+
+.footer button {
+  width: 30%;
+  height: 15%;
+  background-color: dodgerblue;
+  font-size: 24px;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  margin: 20px;
+}
+
+.footer p {
+  color: white;
+}
